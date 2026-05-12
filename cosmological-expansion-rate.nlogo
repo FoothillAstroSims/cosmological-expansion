@@ -236,11 +236,11 @@ NIL
 1
 
 TEXTBOX
-595
+626
 686
-1121
+1125
 736
-Foothill AstroSims, https://foothill.edu/astronomy/astrosims.html, CC BY-NC-SA
+Foothill AstroSims, https://foothill.edu/astronomy/astrosims.html, CC BY-NC
 13
 0.0
 1
